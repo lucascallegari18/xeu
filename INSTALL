@@ -1,0 +1,9 @@
+Installation instructions
+
+-----
+
+1º: To build the software, run: make;
+
+2º: To install the software, run: make install;
+
+3º: Set the user variable PREFIX to overwrite default installation path.
